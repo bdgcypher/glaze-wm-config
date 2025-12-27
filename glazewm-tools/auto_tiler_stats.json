@@ -1,0 +1,9 @@
+{
+  "TotalSwitches": 16,
+  "AuthorMessage": "Thank you for using this script. To support its development and the core GlazeWM project, please consider starring the repositories on GitHub: [Script] https://github.com/aka-phrankie/GlazeWM_AutoTile and [Official] https://github.com/glzr-io/glazewm",
+  "FirstInstallTime": "2025-12-27 00:32:17",
+  "Tip": "The 'DailySwitches' data can be used with data analysis tools or AI to visualize your window management activity.",
+  "DailySwitches": {
+    "2025-12-27": 16
+  }
+}
