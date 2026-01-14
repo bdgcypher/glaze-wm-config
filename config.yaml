@@ -4,12 +4,15 @@ general:
     # Example: The below command launches Zebar and GlazeWM Auto-Tiler.
     startup_commands: [
       "shell-exec zebar",
-      "shell-exec C:/Users/bdgcy/AppData/Local/Microsoft/WindowsApps/pythonw.exe C:/Users/bdgcy/.glzr/glazewm/glazewm-tools/glaze_autotile.pyw --no-stats"
+      # work PC
+      "shell-exec C:/Users/benjamingoddard/AppData/Local/Microsoft/WindowsApps/pythonw.exe C:/Users/benjamingoddard/.glzr/glazewm/glazewm-tools/glaze_autotile.pyw --no-stats"
+      # home setup
+      # "shell-exec C:/Users/bdgcy/AppData/Local/Microsoft/WindowsApps/pythonw.exe C:/Users/bdgcy/.glzr/glazewm/glazewm-tools/glaze_autotile.pyw --no-stats"
     ]
 
     # Commands to run just before the WM is shutdown.
     # Example: The below command kills Zebar.
-    shutdown_commands: ["shell-exec taskkill /IM zebar.exe /F"]
+    # shutdown_commands: ["shell-exec taskkill /IM zebar.exe /F"]
 
     # Commands to run after the WM config is reloaded.
     config_reload_commands: []
