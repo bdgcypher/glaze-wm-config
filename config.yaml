@@ -188,7 +188,7 @@ binding_modes:
 
 keybindings:
 
-  # Hayami layout
+  # Hayami layout 
 
     # # Shift focus in a given direction.
     # - commands: ["focus --direction left"]
